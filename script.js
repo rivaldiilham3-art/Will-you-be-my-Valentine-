@@ -54,14 +54,14 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "kok gamau?",
+    "Beneran gamau nih??",
+    "SERIUS?",
+    "Yakin nihhh masih gamau?",
+    "Coba dipikir pikir lagi!",
+    "Kalo kamu beneran gamau, sedih sih aku...",
+    "PLS YAA MOOD NYA BALIK...",
+    "LOHHH?? MASIH GAMAU?...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
